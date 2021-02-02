@@ -135,27 +135,55 @@
 // 	console.log(i);
 // }
 
-function showAd(message = 'Ad') {
-  console.log('----------');
-  console.log(`--- ${message} ---`);
-  console.log('----------');
+// function showAd(message = 'Ad') {
+//   console.log('----------');
+//   console.log(`--- ${message} ---`);
+//   console.log('----------');
+// }
+
+// showAd('Header Ad');
+// console.log('Tom is great!');
+// console.log('Bob is great!');
+// showAd('Ad');
+// console.log('Steve is great!');
+// console.log('Richard is great!');
+// showAd('Footer Ad');
+
+
+// function sum(a, b, c) {
+// 	// console.log(a + b + c)
+// 	return a + b + c;
+// }
+
+// const sum = function sum(a, b, c) {
+// 	return a + b + c;
+// }
+// sum(1, 2, 3);
+// sum(3, 4, 5);
+
+// const sum = (a, b, c) => a + b + c;
+
+
+// const total = sum(1, 2, 3) + sum(3, 4, 5);
+// console.log(total);
+
+// const double = a => a * 2;
+// console.log(double(12));
+
+// const x = 2;
+
+// function f() {
+// 	const x = 1;
+// 	console.log(x);
+// }
+
+// f();
+// console.log(x);
+
+{
+const x = 100;
+console.log(x);
 }
-
-showAd('Header Ad');
-console.log('Tom is great!');
-console.log('Bob is great!');
-showAd('Ad');
-console.log('Steve is great!');
-console.log('Richard is great!');
-showAd('Footer Ad');
-
-
-
-
-
-
-
-
 
 
 
